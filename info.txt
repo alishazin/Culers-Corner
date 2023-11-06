@@ -1,0 +1,2 @@
+Standings
+place, team emblem, team name, P, F:A, +/-, PTS, W, D, L, Form

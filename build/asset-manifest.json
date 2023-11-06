@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a788c158.css",
+    "main.js": "/static/js/main.8318d459.js",
+    "static/media/ucl-bg.png": "/static/media/ucl-bg.af63e9bdecd664debf68.png",
+    "static/media/lineup.png": "/static/media/lineup.99aeabcb9ec49282dcda.png",
+    "static/media/Substitution.png": "/static/media/Substitution.9a7e51d0adc576bd5c79.png",
+    "static/media/laliga-bg.jpg": "/static/media/laliga-bg.5cc69c107d0c3c1c5da8.jpg",
+    "static/media/goal-net-svg-red.svg": "/static/media/goal-net-svg-red.d084d6704c9de893d4e73b15e5f5ea16.svg",
+    "static/media/goal-net-svg-white.svg": "/static/media/goal-net-svg-white.08f1d2d1d6f8bad9012c4205ab04bc6c.svg",
+    "index.html": "/index.html",
+    "main.a788c158.css.map": "/static/css/main.a788c158.css.map",
+    "main.8318d459.js.map": "/static/js/main.8318d459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a788c158.css",
+    "static/js/main.8318d459.js"
+  ]
+}
