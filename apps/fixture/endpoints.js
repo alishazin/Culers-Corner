@@ -666,8 +666,8 @@ const getFixtureLineup = (apiResponseBody) => {
 
             currentObj.name = playerObj.player.name
             currentObj.number = playerObj.player.number
-            currentObj.img = playerObjFromPlayers === null ? `https://media.api-sports.io/football/players/${playerObj.player.id}.png` : playerObjFromPlayers.player.photo
-            currentObj.rating = playerObjFromPlayers === null ? null : Number(playerObjFromPlayers.statistics[0].games.rating)
+            currentObj.img = playerObjFromPlayers === null ? `https://media.api-sports.io/football/players/${playerObj.player.id}.png` : playerObjFromPlayers?.player.photo
+            currentObj.rating = playerObjFromPlayers === null ? null : Number(playerObjFromPlayers?.statistics[0].games.rating)
             
             if (gridRow === returnData.length + 1) {
             } else if (gridRow > returnData.length + 1) {
